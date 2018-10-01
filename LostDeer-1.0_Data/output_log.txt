@@ -1,0 +1,59 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   10.18.15.4248
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\New folder (2)\LostDeer-1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\New folder (2)\LostDeer-1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\New folder (2)\LostDeer-1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\New folder (2)\LostDeer-1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\New folder (2)\LostDeer-1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\New folder (2)\LostDeer-1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\New folder (2)\LostDeer-1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\New folder (2)\LostDeer-1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\New folder (2)\LostDeer-1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\New folder (2)\LostDeer-1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.870 seconds
+Platform assembly: E:\New folder (2)\LostDeer-1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\New folder (2)\LostDeer-1.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.994782 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.474225 ms
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 5.072084 ms (FindLiveObjects: 0.024149 ms CreateObjectMapping: 0.025357 ms MarkObjects: 0.239084 ms  DeleteObjects: 4.780474 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.511978 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 2.055760 ms (FindLiveObjects: 0.044073 ms CreateObjectMapping: 0.027772 ms MarkObjects: 0.305496 ms  DeleteObjects: 1.677814 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.930032 ms
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 5.519461 ms (FindLiveObjects: 0.022338 ms CreateObjectMapping: 0.024753 ms MarkObjects: 0.219764 ms  DeleteObjects: 5.251397 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.542769 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 2.007461 ms (FindLiveObjects: 0.048903 ms CreateObjectMapping: 0.039847 ms MarkObjects: 0.258404 ms  DeleteObjects: 1.659702 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.340775 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 5.836429 ms (FindLiveObjects: 0.025357 ms CreateObjectMapping: 0.024753 ms MarkObjects: 0.230027 ms  DeleteObjects: 5.554478 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4ac -> priority: 1 
